@@ -1,7 +1,7 @@
 function [out] = LMWIE(img, adjmat, ck)
-%LMWIE ´Ë´¦ÏÔÊ¾ÓĞ¹Ø´Ëº¯ÊıµÄÕªÒª
+%LMWIE 
 % Matlab realizaion of 'Local Mutation Weighted information Entropy' from
-% ¡°Novel detection method for infrared small targets using weighted information entropy,¡±
+% â€œNovel detection method for infrared small targets using weighted information entropy,â€
 %  by X.Qu in 2012.
 % In this realization, an improved local window with flexible shape and
 % pixel filter criteria is developed based on origin design.
